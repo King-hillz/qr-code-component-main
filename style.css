@@ -1,7 +1,7 @@
 
 
 body{
-    background:hsl(212, 45%, 89%) ;
+    background:hsl(212, 45%, 89%);
 }
 
 .container{
@@ -19,12 +19,11 @@ body{
 } 
  
 img {
-    height: ;
+    
     width: 250px;
     border-radius: 10px;
-   
-    /* padding: 0;  */
-}
+
+ }  
 
 h3 {
     color: hsl(218, 44%, 22%);
